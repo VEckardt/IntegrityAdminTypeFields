@@ -12,6 +12,11 @@ The advantage is that you can directly update the definitions in Excel wheny you
 - Integrity 10.8
 - Integrity 10.9
 
+##  Development Environment
+- PTC Integrity LM 10.9
+- Netbeans 7.4 (or 8)
+- Java 1.7 (or 1.8)
+
 ## Installation Instruction:
 
 * Create the Directory C:\IntegrityAdminExport
