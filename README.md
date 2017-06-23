@@ -22,9 +22,10 @@ The advantage is that you can directly update the definitions in Excel wheny you
 * Create the Directory C:\IntegrityAdminExport
 * Create the Directory C:\IntegrityAdminExport\images
 * Put the files from "dist" folder into C:\IntegrityAdminExport
-* Put the Template File docs/Integrity_TypeFields_Template.xlsx directly into C:\IntegrityAdminExport
+* Make sure that you have also mksapi.jar and mksclient.jar with the right version in your C:\IntegrityAdminExport\lib folder 
+* Put the Template File from docs/Integrity_TypeFields_Template.xlsx directly into C:\IntegrityAdminExport
 * Put the run.bat into C:\IntegrityAdminExport
-* Open the run.bat and update the server and login details
+* Open the run.bat and update the server and login credentials
 
 ## How To Run
 * Execute the run.bat
