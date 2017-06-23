@@ -14,9 +14,18 @@ The advantage is that you can directly update the definitions in Excel wheny you
 
 ## Installation Instruction:
 
-* under construction
+* Create the Directory C:\IntegrityAdminExport
+* Create the Directory C:\IntegrityAdminExport\images
+* Put the files from "dist" folder into C:\IntegrityAdminExport
+* Put the Template File docs/Integrity_TypeFields_Template.xlsx directly into C:\IntegrityAdminExport
+* Put the run.bat into C:\IntegrityAdminExport
+* Open the run.bat and update the server and login details
 
 ## How To Run
-* use run.bat to execute the extract generation
+* Execute the run.bat
+* In case of error messages regarding missing images, just run the "run.bat" again (known issue)
+
+## Result
+As an Output you will get Integrity_TypeFields_Set1.xlsx, Integrity_TypeFields_Set2.xlsx etc. in C:\IntegrityAdminExport
 
 Looking forward to your suggestions, ideas, feedback.
